@@ -6,13 +6,52 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
-
+  weight: 4
+  
 - name: Bash
   weight: 3
 
 - name: Scrum
+  weight: 1
+
+- name: Blender
+  weight: 3
+  
+- name: Solidworks
+  weight: 1
+
+- name: Excel
+  weight: 4
+  
+- name: Tensorflow
+  weight: 3
+  
+- name: Keras
   weight: 3
 
-- name: Postman
+- name: Flask
+  weight: 1
+
+- name: Scrapy
+  weight: 1
+
+- name: Selenium
+  weight: 1
+  
+- name: ROS
+  weight: 1
+  
+- name: MQTT
+  weight: 1
+  
+- name: Unity
   weight: 2
+  
+- name: Android Studio
+  weight: 1
+
+- name: Bleak
+  weight: 1
+  
+- name: API
+  weight: 1

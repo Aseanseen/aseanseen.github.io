@@ -15,7 +15,7 @@ username: Sean Lim Zhi Xiang
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_desc1: Final Year Student @ NUS
-typing_desc2: Computer Engineering Major
+typing_desc2: Major in Computer Engineering
 typing_desc3: IoT Specialisation
 typing_desc4: Double Major in Innovation & Design
 
@@ -57,7 +57,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://linkedin.com/in/sean-lim1/
 
 # PROJECTS SECTION
 # show_projects_card:
