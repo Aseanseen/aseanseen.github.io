@@ -47,6 +47,12 @@
 - name: Unity
   weight: 2
   
+- name: Confluence
+  weight: 2
+  
+- name: Jira
+  weight: 2
+  
 - name: Android Studio
   weight: 1
 
