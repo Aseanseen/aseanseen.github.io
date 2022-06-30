@@ -14,7 +14,11 @@ baseurl: ""
 username: Sean Lim Zhi Xiang
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Final Year Computer Engineering Student @ NUS
+typing_desc1: Final Year Student @ NUS
+typing_desc2: Computer Engineering Major
+typing_desc3: IoT Specialisation
+typing_desc4: Double Major in Innovation & Design
+
 # email: Your E-Mail address for the email button.
 email: seanlim@u.nus.edu
 # For every social button you want to display, set your username or userid
