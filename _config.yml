@@ -30,6 +30,14 @@ github_username: aseanseen
 linkedin_username: sean-lim1
 # twitter_username: exampleUser
 
+# HIRING SECTION
+# show_open_to_work_card:
+# > setting this to true, will display the Open to Work section
+# > setting this to false, will omit the Open to Work section
+show_open_to_work_card: true
+open_to_work_title: Open to Work
+open_to_work_description: Currently looking for a part time internship from 15 Aug 2022 to 14 Apr 2023.
+
 # ABOUT ME SECTION
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
@@ -38,7 +46,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Tenacious and eager to learn, seeking to push myself beyond limits.
+# about_me_description: Tenacious and eager to learn, seeking to push myself beyond limits.
 
 # SKILLS SECTION
 # show_skills_card:
