@@ -382,12 +382,11 @@ a {
 
 #skills {
   align-items: center;
-  display: grid;
-  flex-wrap: wrap;
+  display: flex;
   justify-content: center;
 
   div {
-    padding: 0.8rem;
+    padding: 0.2rem;
     transition: opacity 0.5s;
   }
 
