@@ -22,7 +22,7 @@
     - tag: Machine Learning
     - tag: Prototyping
     - tag: ESP32
-  vid: https://youtu.be/E5qnuAanYzg
+  vid: E5qnuAanYzg
   
 - name: Posture Reminder
   descr: Bad posture is an ever-prevalent problem amongst people from all age groups in their everyday life. This solution aims to implement an Internet-of-Things solution that enables users to be informed of their sitting habits so that they can correct any bad habits before they manifest themselves as back problems. Our solution provides users with real-time notifications when their sitting posture is incorrect. It also implements long-term analytics to allow users to be better informed of their posture over time. Overall, our solution not only detects erroneous sitting posture with high accuracy, but also energy efficient.
@@ -35,7 +35,7 @@
     - tag: Flask
     - tag: BLE
     - tag: TI SensorTag
-  vid: https://youtu.be/8fiDL5DETZA
+  vid: 8fiDL5DETZA
 
 - name: Tracetogether Token
   descr: Using multiple TI SensorTags, our team of 3 was tasked with creating our own Tracetogether token. This means that each token is able to record the id of the other tokens that it is in proximity with. Proximity is determined by estimating a token's distance from another using RSSI values which are obtained when the tokens send small packets to one another at regular intervals. To ensure that every token will be able to send and receive a packet in the interval asynchronously, we use an asynchronous quorum based protocol. This also allows the tokens to save power which is essential when creating a tracetogether token.
