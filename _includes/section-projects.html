@@ -17,6 +17,17 @@
             GitHub
           </a>
         {% endif %}
+        {% if project.vid %}
+        <div class="embed-container">
+	  <iframe
+	      src="https://www.youtube.com/embed/{{project.vid}}"
+	      width="700"
+	      height="480"
+	      frameborder="0"
+	      allowfullscreen="">
+	  </iframe>
+	</div>
+	{% endif %}
         {% if project.tags %}
           <div class="tag-wrapper">
             {% for tag in project.tags %}

@@ -15,18 +15,19 @@
 
 - name: Lung Tracker
   descr: Problems with the lungs require close medical attention. However, such medical attention is not easily accessible for all, highlighting the need for remote monitoring. The Covid-19 pandemic has further highlighted this need as physical interactions are strained. Since the olden days, a stethoscope has been the preferred tool of choice for doctors when diagnosing and monitoring lung problems. However, users require a certain level of medical knowledge to be able to put the stethoscopes on and it takes an experienced doctor to differentiate between normal body sounds and ailment sounds. There are certain products on the market that provide the measurement of lung sounds. However, they are rarely medical certified and most are not comfortable enough to be worn for a long period of time. Our value proposition is to create an easy-to-use medical-grade wearable stethoscope with constant monitoring of lung sounds combined with autonomous diagnosis.
-  demo: https://github.com/Aseanseen/aseanseen.github.io/vids/lung_tracker.mp4
+  demo: https://youtu.be/E5qnuAanYzg
   tags:
     - tag: Blender
     - tag: Python
     - tag: Machine Learning
     - tag: Prototyping
     - tag: ESP32
-
+  vid: https://youtu.be/E5qnuAanYzg
+  
 - name: Posture Reminder
   descr: Bad posture is an ever-prevalent problem amongst people from all age groups in their everyday life. This solution aims to implement an Internet-of-Things solution that enables users to be informed of their sitting habits so that they can correct any bad habits before they manifest themselves as back problems. Our solution provides users with real-time notifications when their sitting posture is incorrect. It also implements long-term analytics to allow users to be better informed of their posture over time. Overall, our solution not only detects erroneous sitting posture with high accuracy, but also energy efficient.
   github: https://github.com/Aseanseen/cs3237proj
-  demo: https://github.com/Aseanseen/aseanseen.github.io/vids/posture_reminder.mp4
+  demo: https://youtu.be/8fiDL5DETZA
   tags:
     - tag: Python
     - tag: PostgreSQL
@@ -34,6 +35,7 @@
     - tag: Flask
     - tag: BLE
     - tag: TI SensorTag
+  vid: https://youtu.be/8fiDL5DETZA
 
 - name: Tracetogether Token
   descr: Using multiple TI SensorTags, our team of 3 was tasked with creating our own Tracetogether token. This means that each token is able to record the id of the other tokens that it is in proximity with. Proximity is determined by estimating a token's distance from another using RSSI values which are obtained when the tokens send small packets to one another at regular intervals. To ensure that every token will be able to send and receive a packet in the interval asynchronously, we use an asynchronous quorum based protocol. This also allows the tokens to save power which is essential when creating a tracetogether token.
