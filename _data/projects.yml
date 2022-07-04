@@ -15,7 +15,7 @@
 
 - name: Lung Tracker
   descr: Problems with the lungs require close medical attention. However, such medical attention is not easily accessible for all, highlighting the need for remote monitoring. The Covid-19 pandemic has further highlighted this need as physical interactions are strained. Since the olden days, a stethoscope has been the preferred tool of choice for doctors when diagnosing and monitoring lung problems. However, users require a certain level of medical knowledge to be able to put the stethoscopes on and it takes an experienced doctor to differentiate between normal body sounds and ailment sounds. There are certain products on the market that provide the measurement of lung sounds. However, they are rarely medical certified and most are not comfortable enough to be worn for a long period of time. Our value proposition is to create an easy-to-use medical-grade wearable stethoscope with constant monitoring of lung sounds combined with autonomous diagnosis.
-  demo: https://youtu.be/E5qnuAanYzg
+#  demo: https://youtu.be/E5qnuAanYzg
   tags:
     - tag: Blender
     - tag: Python
@@ -27,7 +27,7 @@
 - name: Posture Reminder
   descr: Bad posture is an ever-prevalent problem amongst people from all age groups in their everyday life. This solution aims to implement an Internet-of-Things solution that enables users to be informed of their sitting habits so that they can correct any bad habits before they manifest themselves as back problems. Our solution provides users with real-time notifications when their sitting posture is incorrect. It also implements long-term analytics to allow users to be better informed of their posture over time. Overall, our solution not only detects erroneous sitting posture with high accuracy, but also energy efficient.
   github: https://github.com/Aseanseen/cs3237proj
-  demo: https://youtu.be/8fiDL5DETZA
+#  demo: https://youtu.be/8fiDL5DETZA
   tags:
     - tag: Python
     - tag: PostgreSQL
