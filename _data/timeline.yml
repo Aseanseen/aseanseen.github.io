@@ -24,6 +24,8 @@
   tags:
     - tag: Excel
     - tag: Project Management
+    - tag: Jira
+    - tag: Confluence
   timeline-side: right
 
 - title: A*STAR, Bioinformatics Institute
@@ -36,9 +38,12 @@
   timeline-side: left
 
 - title: CHASSasia Group
-  title-url: https://chassasia.com
+  title-url: https://www.chassasia.com
   date: Mar 2019 - Jun 2019
   subtitle: Support Engineer Intern
+  tags:
+    - tag: IT
+    - tag: Microsoft Office
   timeline-side: right
 
 - title: National University of Singapore
@@ -48,7 +53,7 @@
   timeline-side: left
   
 - title: Anderson Junior College
-  title-url: https://asrjc.moe.edu.sg
+  title-url: https://www.asrjc.moe.edu.sg
   date: 2015 - 2016
   subtitle: GCE A-Level
   timeline-side: left
