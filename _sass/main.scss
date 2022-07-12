@@ -656,11 +656,6 @@ img {
 /* Media Queries */
 
 @media only screen and (min-width: $small-screen) {
-  .embed-container iframe {
-    width: 60%;
-    height: auto;
-  }
-
   .layout {
     margin: 0.5rem auto;
     padding: 2rem 2rem;
@@ -752,10 +747,14 @@ img {
       @include filter-out;
     }
 
-    input[id="tool"]:checked ~ div[skill-type="language"],
-    /*input[id="tool"]:checked ~ div[skill-type="framework"] {
+    input[id="tool"]:checked ~ div[skill-type="language"] {
       @include filter-out;
-    }*/
+    }
+    /*
+    input[id="tool"]:checked ~ div[skill-type="framework"] {
+      @include filter-out;
+    }
+    */
   }
 
   .timeline-wrapper {
@@ -829,6 +828,10 @@ img {
     justify-content: space-between;
     > * {
       width: 44%;
+    }
+    .embed-container .iframe {
+    width: 20%;
+    height: 20%;
     }
   }
 
