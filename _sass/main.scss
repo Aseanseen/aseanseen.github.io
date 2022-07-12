@@ -656,9 +656,9 @@ img {
 /* Media Queries */
 
 @media only screen and (min-width: $small-screen) {
-  #face {
-    width: 50%
-    height: 50%
+  .embed-container iframe {
+    width: 60%
+    height: auto
   }
 
   .layout {
