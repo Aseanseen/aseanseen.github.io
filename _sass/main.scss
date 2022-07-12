@@ -656,6 +656,11 @@ img {
 /* Media Queries */
 
 @media only screen and (min-width: $small-screen) {
+  #face {
+    width: 50%
+    height: 50%
+  }
+
   .layout {
     margin: 0.5rem auto;
     padding: 2rem 2rem;
