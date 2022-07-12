@@ -1,6 +1,10 @@
 <div id="landing">
   <div class="landing-title">
-    <img src="assets/face.jpg" alt="Sean Lim">
+    <picture>
+      <source media="(min-width:992px)" srcset="assets/lface.jpg">
+      <source media="(min-width:768px)" srcset="assets/mface.jpg">
+      <img src="assets/sface.jpg" alt="Sean Lim">
+    </picture>
     <h1>Hi, I&#39;m
       <span class="highlight-title">{{site.username}}</span>,
     </h1>
