@@ -243,7 +243,7 @@ a {
   padding: 0.5rem;
   position: absolute;
   right: 0;
-  top: 40%;
+  text-align: center;
 }
 
 .landing-icons {
@@ -376,12 +376,6 @@ a {
       stroke: #1da1f2;
     }
   }
-}
-/* Images Section */
-img {
-  max-width: 100%;
-  height: auto;
-  width: auto;
 }
 
 /* Skills Section */
@@ -668,7 +662,6 @@ img {
   .layout .card .description {
     font-size: 1.25rem;
   }
-  
   .landing-title h1 {
     font-size: 3rem;
   }
