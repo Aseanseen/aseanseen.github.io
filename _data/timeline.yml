@@ -17,9 +17,20 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Hydra X
+  title-url: https://www.hydrax.io/
+  date: Aug 2022 - Present
+  subtitle: Product Management Intern
+  tags:
+    - tag: Excel
+    - tag: Project Management
+    - tag: Jira
+    - tag: Confluence
+  timeline-side: left
+
 - title: Standard Chartered Bank
   title-url: https://sc.com/en/global-careers/early-careers/intern/
-  date: Jun 2022 - Present
+  date: Jun 2022 - Aug 2022
   subtitle: Digital Channel & Data Analytics Intern
   tags:
     - tag: Excel
